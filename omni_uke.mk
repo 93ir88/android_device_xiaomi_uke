@@ -13,7 +13,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, device/xiaomi/uke/device.mk)
 
 PRODUCT_DEVICE := uke
-PRODUCT_NAME := omni_uke
+PRODUCT_NAME := twrp_uke
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := 2410CRP4CG
 PRODUCT_MANUFACTURER := xiaomi
