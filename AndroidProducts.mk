@@ -9,6 +9,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_uke.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_uke-user \
-    omni_uke-userdebug \
-    omni_uke-eng
+    twrp_uke-trunk_staging-eng \
+    twrp_uke-user \
+    twrp_uke-userdebug \
+    twrp_uke-eng
